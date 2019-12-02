@@ -1,0 +1,17 @@
+1.Java & J2EE
+2.Cloud Computing
+3.Object Oriented Modeling and Design
+4.Entrepreneurship Development, Management and IPR
+5.Information Security
+6.DIP – algorithms and applications
+7.Real-time Systems
+8.Data Warehousing and Data Mining
+9.Mobile Computing
+10.Adhoc Wireless and Sensor Networks
+11.Service oriented Computing
+12.Building Enterprise Applications
+13.Neural Networks and Fuzzy Logic Systems
+14.Software Project Management
+15.Genetic Algorithms
+16.Object Oriented Modeling & Design Lab
+17.Project Preliminary/Technical Seminar

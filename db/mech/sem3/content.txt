@@ -1,0 +1,8 @@
+1.Engineering Mathematics 3
+2.Material Science & Metallurgy 
+3.Basic Thermodynamics 
+4.Mechanics of Materials 
+5.Manufacturing Technology
+6.Computer Aided machine Drawing 
+7.Manufacuring Lab 
+8.Metallography & Material Testing Lab

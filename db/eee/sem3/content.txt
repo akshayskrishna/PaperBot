@@ -1,0 +1,8 @@
+1.Engineering Mathematics –III
+2.Electric Circuits
+3.DC Machines & Transformers
+4.Electronic Circuits
+5.Electrical & Electronic Measurements
+6.Logic Design
+7.Analog Electronics Lab 
+8.Logic Design Lab

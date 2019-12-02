@@ -1,0 +1,8 @@
+1.Parallel Programming Principles
+2.Computer and Cyber Security
+3.Advanced image and video processing
+4.Embedded Networking and Security
+5.Distributed Systems and Transaction Processing
+6.Storage Area Networks
+7.C# and .Net
+8.Self study

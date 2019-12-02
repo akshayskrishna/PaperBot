@@ -1,0 +1,8 @@
+1.Field Theory
+2.Power Electronics
+3.Control Systems
+4.Signals & Systems
+5.Transmission & Distribution
+6.Program Elective –A
+7.Synchronous & Induction Machines Lab 
+8.Microcontroller Lab

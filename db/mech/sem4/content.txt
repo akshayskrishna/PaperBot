@@ -1,0 +1,8 @@
+1.Engineering Mathematics - 4 
+2.Metrology & Measurements 
+3.Applied Thermodynamics 
+4.Theory of Machines 1 
+5.Fluid Mechanics and Machinery 
+6.Advanced Manufacturing Process 
+7.Fluid Machinery Lab 
+8.Metrology & Measurements lab

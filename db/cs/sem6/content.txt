@@ -1,0 +1,13 @@
+1.Software Engineering
+2.Compiler Design
+3.Computer Networks – II
+4.Operations Research
+5.Cryptography and Network Security
+6.Digital image processing – algorithms
+7.Microcontroller based Systems
+8.Advanced Database Management System
+9.E-Commerce
+10.Decision Support System
+11.Business Intelligence and Its Applications
+12.System Software Lab
+13.Computer Networks Laboratory

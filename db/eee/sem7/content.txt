@@ -1,0 +1,10 @@
+1.Computer Aided Electrical Drawing
+2.Computer Techniques in Power Systems
+3.Switchgear & Protection
+4.High Voltage Engineering
+5.Entrepreneurship Development, Management & IPR
+6.Program Elective –D
+7.Open Elective-E
+8.Power System Protection and Machine Simulation Lab 
+9.Power System Simulation Lab
+10.Project preliminary/ Technical Seminar

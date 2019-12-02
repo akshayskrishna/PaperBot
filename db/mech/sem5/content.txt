@@ -1,0 +1,13 @@
+1.Design of Machine Elements - I 
+2.Theory of Machines - II 
+3.Finite Element Methods 
+4.Engineering Economics 
+5.Mechatronics 
+6.Theory of Elasticity
+7.Internal Combustion Engines
+8.Non-Traditional Machining
+9.Industrial Engineering and Management 
+10.Welding Technology 
+11.Turbo Machinery
+12.Energy Conversion Lab 
+13.Machine Shop 

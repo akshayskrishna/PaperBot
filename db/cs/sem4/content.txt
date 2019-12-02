@@ -1,0 +1,8 @@
+1.Engineering Mathematics IV
+2.Graph Theory
+3.Analysis and Design of Algorithms
+4.Object Oriented Programming
+5.Microprocessor
+6.Computer Organization and Architecture
+7.Microprocessor Lab
+8.Object Oriented Programming Lab

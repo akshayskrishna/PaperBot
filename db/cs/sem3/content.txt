@@ -1,0 +1,8 @@
+1.Engineering Mathematics-III
+2.Electronic Circuits
+3.Logic Design
+4.Discrete Mathematical Structures
+5.Data Structures
+6.Introduction to Unix and Shell Programming
+7.Data Structures Lab
+8.Electronic Circuits & Logic Design Lab

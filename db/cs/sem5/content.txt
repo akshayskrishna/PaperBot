@@ -1,0 +1,11 @@
+1.Computer Networks – I
+2.Computer Graphics with OpenGL
+3.Operating Systems
+4.Data Base Management Systems
+5.Formal Languages and Automata Theory
+6.Internetworking with TCP/IP
+7.Fundamentals of digital image processing
+8.Introduction to Embedded Systems
+9.Unix System Programming
+10.Computer Graphics Laboratory
+11.DBMS Lab

@@ -1,0 +1,8 @@
+1.Engineering Mathematics –IV
+2.Microcontroller
+3.Network analysis & Synthesis
+4.Synchronous & Induction Machines
+5.Linear Integrated Circuits
+6.Electrical Power Generation
+7.DC Machines & Transformers Lab
+8.Circuits & Measurements Lab 

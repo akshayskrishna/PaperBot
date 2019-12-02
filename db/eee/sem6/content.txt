@@ -1,0 +1,8 @@
+1.Power System Analysis & Stability
+2.Electrical Machine Design
+3.Digital Signal Processing
+4.Operations Research
+5.Program Elective –B
+6.Open Elective –C
+7.Control Systems Lab
+8.Power Electronics Lab
